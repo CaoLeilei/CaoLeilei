@@ -1,6 +1,6 @@
-# Hello, Water!
+# Hello, 大耳朵秃秃!
 
-My name is Leilei.Cao and I'm a software developer/FrontEnd engineer. I'm from China.
+My name is Cao Siyuan, here I call myself 大耳朵秃秃. I'm a front-end development engineer. I'm from China~~
 
 ## 🔧  Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Windows&logoColor=white&color=2bbc8a)
