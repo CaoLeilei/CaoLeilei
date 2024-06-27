@@ -1,6 +1,6 @@
 # Hello, 大耳朵秃秃!
 
-My name is Cao Siyuan, here I call myself 大耳朵秃秃. I'm a front-end development engineer. I'm from China~~
+I'm Cao Siyuan,  have big ears and less hair, so I call myself. I am a full-stack engineer and specialize in frontend (web) development. I’m also an open source enthusiast and have contributed dozens of projects to the community.I'm from China~~
 
 ## 🔧  Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Windows&logoColor=white&color=2bbc8a)
