@@ -2,7 +2,7 @@
 
 My name is Cao Siyuan, here I call myself 大耳朵秃秃. I'm a front-end development engineer. I'm from China~~
 
-![Nekocode's github stats](https://github-readme-stats.vercel.app/api?username=nekocode&show_icons=true&theme=dracula&hide_rank=true)
+![Nekocode's github stats](https://github-readme-stats.vercel.app/api?username=CaoLeilei&show_icons=true&theme=dracula&hide_rank=true)
 
 ## 🔧  Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Windows&logoColor=white&color=2bbc8a)
