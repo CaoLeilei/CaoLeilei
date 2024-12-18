@@ -1,14 +1,16 @@
 # Hello, 大耳朵秃秃!
 
-I'm Cao Siyuan,  have big ears and less hair, so I call myself. I am a full-stack engineer and specialize in frontend (web) development. I’m also an open source enthusiast and have contributed dozens of projects to the community.I'm from China~~
+I'm Cao Siyuan, have big ears and less hair, so I call myself. I am a full-stack engineer and specialize in frontend (web) development. I’m also an open source enthusiast and have contributed dozens of projects to the community.I'm from China~~
 
-## 🔧  Technologies & Tools
+## 🔧 Technologies & Tools
+
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Windows&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-VsCode-informational?style=flat&logo=visual-studio&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-WebStorm-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-VsCode-informational?style=flat&logo=visual-studio&logoColor=white&color=489ce9)
+![](https://img.shields.io/badge/Editor-WebStorm-informational?style=flat&logo=intellij-idea&logoColor=white&color=ea425b)
 
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=f9d46e)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=4076be)
+![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=65b587)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=React&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=CPlusPlus&logoColor=white&color=2bbc8a)
